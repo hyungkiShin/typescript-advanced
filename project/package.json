@@ -1,0 +1,24 @@
+{
+  "name": "typescript-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyungkiShin/typescript-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyungkiShin/typescript-advanced/issues"
+  },
+  "homepage": "https://github.com/hyungkiShin/typescript-advanced#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
